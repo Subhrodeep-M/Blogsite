@@ -27,7 +27,7 @@ $result = $conn->query($sql);
 <head>
     <title>Blog Site</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <script src="https://cdn.tiny.cloud/1/d9fcdfbh7jyu9cuu64ro4sftx7tnkrqiy0ge8n9990beuqye/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
+    <script src="https://cdn.tiny.cloud/1/YOUR-API-KEY/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
     <script>
       tinymce.init({
         selector: 'textarea.rich-text',
