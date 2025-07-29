@@ -15,7 +15,7 @@ A simple blog platform built with PHP, MySQL, Bootstrap, and TinyMCE. Users can 
 ## 🛠️ Technologies Used
 
 - PHP (Vanilla PHP)
-- MySQL (XAMPP / MariaDB)
+- MySQL (XAMPP)
 - Bootstrap 5
 - TinyMCE (Rich Text Editor)
 - JavaScript / AJAX
